@@ -2,6 +2,8 @@
 
 Course notes and projects from Ed Donner’s AI Engineer Core Track — LLM apps, RAG, agents, and evaluation.
 
+![Certificate of completion](assets/certificate.jpg)
+
 # LLM Engineering - Master AI and LLMs
 
 ## Your 8 week journey to proficiency starts today
